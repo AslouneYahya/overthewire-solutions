@@ -23,4 +23,4 @@ bandit3@bandit:~/inhere$ cat ...Hiding-From-You
   
 </details>
 
-After saving the resulted password, and following the steps from the previous level, log in to bandit4.
+After saving the resulted password, log in to bandit4.
