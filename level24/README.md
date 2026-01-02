@@ -1,3 +1,4 @@
-Problem Expression For Level 24
+# Problem Link
+[Level Page](https://overthewire.org/wargames/bandit/bandit24.html
 
 Solution

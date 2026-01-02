@@ -1,3 +1,4 @@
-Problem Expression For Level 00
+# Problem Link
+[Level Page](https://overthewire.org/wargames/bandit/bandit0.html
 
 Solution

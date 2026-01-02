@@ -1,3 +1,4 @@
-Problem Expression For Level 28
+# Problem Link
+[Level Page](https://overthewire.org/wargames/bandit/bandit28.html
 
 Solution
