@@ -14,11 +14,6 @@ Showing the content of -file00
 I V`nѳ*^7؅cO
 Showing the content of -file01
 qYdCF+
-Showing the content of -file02
-LQ`/r
-P{
-Showing the content of -file03
-?1'JV,2f
 ...
 ```
 I found the password in the seventh file.
