@@ -16,3 +16,11 @@ Then show the file using `cat` command:
 ```bash
 bandit3@bandit:~/inhere$ cat ...Hiding-From-You 
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX19RcvrQkrqlnB8092wTICdb0eLYCfwRD1a0ZDVeiL4JG4b7haVpx7CdyS2FSRUOj7u/U3QAVqKJ8w==`
+  
+</details>
+
+After saving the resulted password, and following the steps from the previous level, log in to bandit4.
