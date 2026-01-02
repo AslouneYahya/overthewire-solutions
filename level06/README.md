@@ -6,12 +6,7 @@ I spent too much time using ls -l, without -a argument, which didn't print the d
 ```bash
 bandit5@bandit:~/inhere$ counter() { for i in {00..19}; do echo "Directory maybehere$i"; ls -al ./maybehere$i | grep "1033"; done; }
 bandit5@bandit:~/inhere$ counter
-Directory maybehere00
-Directory maybehere01
-Directory maybehere02
-Directory maybehere03
-Directory maybehere04
-Directory maybehere05
+...
 Directory maybehere06
 Directory maybehere07
 -rw-r-----  1 root bandit5 1033 Oct 14 09:26 .file2
