@@ -1,5 +1,5 @@
 # Problem Link
-Level Page https://overthewire.org/wargames/bandit/bandit1.html
+[Level Page](https://overthewire.org/wargames/bandit/bandit1.html)
 
 # Solution
 First, I checked the list of files in the home directory using `ls` command:
