@@ -2,7 +2,7 @@
 [Level Page](https://overthewire.org/wargames/bandit/bandit3.html)
 
 # Solution
-Same steps as the previous one, using this command 
+Same steps as the previous level, using the following command 
 ```bash
 bandit2@bandit:~$ cat ./--spaces\ in\ this\ filename--
 ```
