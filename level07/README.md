@@ -2,7 +2,7 @@
 [Level Page](https://overthewire.org/wargames/bandit/bandit7.html)
 
 # Solution
-I just discovered the `find` command, it could also work on previous problems without using a loop, I used `cd /` to change directory to root level, the I executed the following:
+I just discovered the `find` command, it could also work on previous problems without using a loop, I used `cd /` to change directory to root level, then I executed the following:
 ```bash
 bandit6@bandit:/$ find -size 33c -group "bandit6" -user "bandit7"
 ...
