@@ -46,4 +46,4 @@ bandit1@bandit.labs.overthewire.org's password:
 Paste the password that you saved, then you'll see `bandit1@bandit:~$`, which means that you're logged in succefully.
 
 # Security Note
-To prevent spoilers and follow security best practices, all passwords/flags in this repository are encrypted.
+To follow security best practices, all passwords/flags in this repository are encrypted.
