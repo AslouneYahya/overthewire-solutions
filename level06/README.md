@@ -2,7 +2,7 @@
 [Level Page](https://overthewire.org/wargames/bandit/bandit6.html)
 
 # Solution
-I spent too much time using ls -l, without -a argument, which didn't print the desired file, I piped the ls with grep, so I can get the exact desired file.
+I spent too much time using ls -l, without -a argument, which didn't print the desired file, I piped the ls with grep, so I can get find it.
 ```bash
 bandit5@bandit:~/inhere$ counter() { for i in {00..19}; do echo "Directory maybehere$i"; ls -al ./maybehere$i | grep "1033"; done; }
 bandit5@bandit:~/inhere$ counter
