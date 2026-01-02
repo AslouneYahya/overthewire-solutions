@@ -5,6 +5,7 @@
 For this problem, I used grep to catch the line that contains "millionth" string:
 ```bash
 bandit7@bandit:~$ cat data.txt | grep "millionth"
+millionth       ...
 ```
 <details>
   <summary>Encrypted password:</summary>
