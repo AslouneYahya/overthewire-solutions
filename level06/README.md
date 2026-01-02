@@ -17,16 +17,7 @@ Directory maybehere07
 -rw-r-----  1 root bandit5 1033 Oct 14 09:26 .file2
 Directory maybehere08
 Directory maybehere09
-Directory maybehere10
-Directory maybehere11
-Directory maybehere12
-Directory maybehere13
-Directory maybehere14
-Directory maybehere15
-Directory maybehere16
-Directory maybehere17
-Directory maybehere18
-Directory maybehere19
+...
 ```
 Then enter the maybehere07 directory and read the `.file2` to get the password as below:
 ```bash
