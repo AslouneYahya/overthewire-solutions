@@ -19,3 +19,11 @@ Then enter the maybehere07 directory and read the `.file2` to get the password a
 bandit5@bandit:~/inhere$ cd maybehere07
 bandit5@bandit:~/inhere/maybehere07$ cat .file2
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX19EnFaCcN/6oJYP0O5lN1RRMCOfxgk3B4fdGASFDmdOresL6AF9oOIvXmDSIzokErp0lhhB+sJraw==`
+  
+</details>
+
+After saving the resulted password, log in to bandit6.
