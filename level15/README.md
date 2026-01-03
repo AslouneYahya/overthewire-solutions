@@ -14,6 +14,7 @@ bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
   
 </details>
 I used `telnet` command to connect to local host, then I submitted the password of bandit14:
+
 ```bash
 bandit14@bandit:~$ telnet localhost 30000
 Trying 127.0.0.1...
