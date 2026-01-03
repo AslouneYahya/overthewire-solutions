@@ -2,7 +2,7 @@
 [Level Page](https://overthewire.org/wargames/bandit/bandit12.html)
 
 # Solution
-The problem seggests using the `tr` command which translates the input to another sequence.
+The problem suggests using the `tr` command which translates the input to another sequence.
 
 I piped the output of the `cat` command to `tr 'A-Za-z' 'N-ZA-Mn-za-M'` which takes any character from A to Z, or a to n, then replace it with its rot13.
 
