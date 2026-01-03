@@ -13,3 +13,11 @@ Correct!
 (bandit16 password)
 closed
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX1+UhO1RsJZ4UjgR5ez1p1j0Tdz7nqnkpLQzYQwwEbn4wDCGgw60ihhAxdwTOmhSHKHEJb82En7wOg==`
+  
+</details>
+
+After saving the resulted password, log in to bandit16.
