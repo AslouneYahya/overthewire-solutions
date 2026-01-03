@@ -9,3 +9,11 @@ I piped the content of `data.txt` file with `sort` command, then I piped the out
 bandit8@bandit:~$ cat data.txt | sort | uniq -u
 ...
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX1/OtHbAlam0IDHXjsqQTsFJR54jkWDt4AWKNWguUrS0LEf4i+IXCZic2j4SvCBF9x1aALuMKDsPfA==`
+  
+</details>
+
+After saving the resulted password, log in to bandit9.
