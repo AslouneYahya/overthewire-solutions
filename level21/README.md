@@ -1,5 +1,5 @@
 # Problem Link
-[Level Page](https://overthewire.org/wargames/bandit/bandit21.html
+[Level Page](https://overthewire.org/wargames/bandit/bandit21.html)
 
 # Solution
 For this, we should use `tmux` command to create two separate sessions, after it execution, we move to a new session, by clicking `CTRL+b, "` the two sessions split horizontally:
@@ -13,7 +13,7 @@ bandit20@bandit:~$
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 bandit20@bandit:~$
 ```
-The first session will start listening on port 1234, and the second will establish a connection with it using `nc` and `./suconnect` commands:
+The first session will start listening on port 1234, and the second will establish a connection with it using `nc` and `./suconnect` commands (you can switch control between sessions by using `CTRL+b, Up Arrow` or `CTRL+b, Down Arrow`:
 
 ```bash
 bandit20@bandit:~$ nc -l 1234
@@ -40,3 +40,17 @@ bandit20@bandit:~$ ./suconnect 1234
 Read: (password bandit20)
 Password matches, sending next password
 ```
+
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX1+vwas57liQYks5r8wTGppbNDMF8dudroAeEKh21l9w61Y3KiodCX2yxLH1yFFlKSNFu1moM4a9SA==`
+  
+</details>
+
+After saving the resulted password, log in to bandit21.
+
+
+
+
+
