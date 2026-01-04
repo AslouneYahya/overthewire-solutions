@@ -26,7 +26,7 @@ bandit20@bandit:~$ ./suconnect 1234
 ```
 Then paste the bandit20 password in first session, and you'll get the bandit21 password in next line thanks to the second session running script:
 
-````bash
+```bash
 bandit20@bandit:~$ nc -l 1234
 (password bandit20)
 (password bandit21)
