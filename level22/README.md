@@ -26,3 +26,12 @@ From the content of this script, it writes the content of `/etc/bandit_pass/band
 bandit21@bandit:/etc/cron.d$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 (password of bandit22)
 ```
+
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX188effktLz7wD0z+TdugLBH+c97Yse61aoH2ObqwyGN0fhzfHjPKdkl9KxzpgPUMp51PnQ3oo2s5w==`
+  
+</details>
+
+After saving the resulted password, log in to bandit22.
