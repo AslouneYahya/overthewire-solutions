@@ -13,3 +13,11 @@ So during the execution of `bandit20-do` I can execute commands as bandit20 user
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 (password of bandit20)
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX1/Vk5ksHgUd41xbej9yEh8iSUupgk2lbb68e9tfqpmt8rwauoEgT1lrhx6rmgulCDPS1s/2rfzwuw==`
+  
+</details>
+
+After saving the resulted password, log in to bandit20.
