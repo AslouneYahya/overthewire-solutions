@@ -3,6 +3,7 @@
 
 # Solution
 For this problem, I used `nmap` command to scan open ports:
+```bash
 bandit16@bandit:~$ nmap -p 31000-32000 localhost
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2026-01-04 09:12 UTC
 Nmap scan report for localhost (127.0.0.1)
@@ -16,6 +17,7 @@ PORT      STATE SERVICE
 31960/tcp open  unknown
 
 Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+```
 Then I tried to connect to each port, to see the one who'll give me the private key, and it was port 31790, I used the command `openssl s_client` with `-quiet` arguments, so the localhost reads the password as raw data:
 ```bash
 bandit16@bandit:~$ openssl s_client -connect localhost:31790 -quiet
