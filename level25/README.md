@@ -34,7 +34,7 @@ The password of user bandit25 is (password of bandit25)
   
 </details>
 
-After saving the resulted password, log in to bandit23.
+After saving the resulted password, log in to bandit25.
 
 
 
