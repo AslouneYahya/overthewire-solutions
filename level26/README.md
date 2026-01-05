@@ -28,9 +28,6 @@ exit 0
 
 The trick here is I should minimize my terminal session to read few lines, so the `more` commands could hang, and I could change the variable shell to "/bin/shell", by clicking on v, then typing ":set shell=/bin/bash" hitting enter, then type ":shell", by hitting enter, I had access to home directory of bandit26.
 
-Then, I used `bandit27-do` executable to open `/etc/bandit_pass/bandit27` as bandit27 user:
 ```bash
-bandit26@bandit:~$ ./bandit27-do cat /etc/bandit_pass/bandit27                                                                                                                             
-(password of bandit27)
+bandit26@bandit:~$
 ```
-
