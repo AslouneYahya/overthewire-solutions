@@ -15,7 +15,7 @@ Some notes for level29 of bandit.
 - password: xxxxxxxxxx
 ```
 
-I checked the history of commits, the I used `git show` to second commit, so I can see what changed, nd I found that in this commit, they replaced `-- password: <TBD>` by `+- password: (password of bandit29)` in `README.md` file:
+I checked the history of commits, the I used `git show` to second commit, so I can see what changed, nd I found that in this commit, they replaced `password: <TBD>` by `password: (password of bandit29)` in `README.md` file:
 
 ```bandit
 aslouneyahya@cloudshell:~/repo$ git log --oneline
@@ -29,3 +29,11 @@ commit 8b7c651b37ce7a94633b7b7b7c980ded19a16e4f
 +- password: (password of bandit29)
 ```
 
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX1+JyRYgoOoEfnaFL0MVwlfNIZpDWigmc9VvYL8fvzUZ3JYzA8Lka3RVLVAVG9ac+o1YIQ5EjRlv4Q==`
+  
+</details>
+
+After saving the resulted password, log in to bandit29.
