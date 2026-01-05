@@ -54,8 +54,11 @@ bandit23@bandit:/tmp/tmp.n6v4Nv2yS8$ cat password.txt
 (password of bandit24)
 ```
 
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX195OfIPsGNaULv3UGexTE3CWJN5fRsb5UkQYnRRjo5UO7ZOdWiwkWlnTHuXcx/QAUHdv4wN+hJEoA==`
+  
+</details>
 
-
-
-
-
+After saving the resulted password, log in to bandit24.
