@@ -1,5 +1,5 @@
 # Problem Link
-[Level Page](https://overthewire.org/wargames/bandit/bandit24.html
+[Level Page](https://overthewire.org/wargames/bandit/bandit24.html)
 
 # Solution
 Following same steps as previous problem:
