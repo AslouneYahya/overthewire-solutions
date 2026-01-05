@@ -30,4 +30,4 @@ Author: Morla Porla <morla@overthewire.org>
   
 </details>
 
-After saving the resulted password, log in to bandit28.
+After saving the resulted password, log in to bandit30.
