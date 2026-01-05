@@ -13,3 +13,11 @@ WELCOME TO THE UPPERCASE SHELL
 $ cat /etc/bandit_pass/bandit33
 (password of bandit33) 
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX18Cm/iBrkejY7kqhR/gAEeCFh7HsGoxW16m0L+zWkcWTUgMcD5U4AUDP9PAjoWZzb1Y9J3ktQc/fQ==`
+  
+</details>
+
+After saving the resulted password, log in to bandit33.
