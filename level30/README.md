@@ -23,3 +23,11 @@ Author: Morla Porla <morla@overthewire.org>
 -- password: <no passwords in production!>
 +- password: (password of bandit30)
 ```
+<details>
+  <summary>Encrypted password:</summary>
+  
+  `U2FsdGVkX19AsMxLIteKay4/rHzOE4XNguK/kOfnP75uM4R6KLjNNcAbZl6Oz44ZM2Fit50BTw6YfnYTagc9pQ=`
+  
+</details>
+
+After saving the resulted password, log in to bandit28.
