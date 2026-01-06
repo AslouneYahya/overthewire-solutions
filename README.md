@@ -1,4 +1,4 @@
 # overthewire-solutions
-
-# Security Note
-To follow security best practices, all passwords/flags in this repository are encrypted, the command used for encryption `echo "" | openssl enc -aes-256-cbc -a`.
+I'm happy to share a comprehensive collection of write-ups, command logs, and guides for the [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) wargame.
+# Note on Academic Integrity
+This repository serves as a personal knowledge base and a guide for the OverTheWire Bandit wargame. All flags and passwords have been encrypted to prevent cheating.
